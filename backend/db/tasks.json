@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Meeting",
+    "date": "2025-01-31T15:24",
+    "isRecurring": false
+  },
+  {
+    "id": 2,
+    "name": "ss",
+    "date": "2025-02-14T14:27",
+    "isRecurring": false
+  },
+  {
+    "id": 3,
+    "name": "Task 1",
+    "date": "2025-03-05T20:28",
+    "isRecurring": false
+  },
+  {
+    "id": 5,
+    "name": "Task 3",
+    "date": "2025-03-02T21:30",
+    "isRecurring": true
+  }
+]
